@@ -43,7 +43,7 @@
  * This file contains the source code for a sample client application using the LED Button service.
  */
 
- // github.com/pixterconnect/ncs CG Xterconnect 2019 september 1st
+ // github.com/pixterconnect/ncs CG Xterconnect 2019 september 1st (c)
 
 
 
